@@ -1,4 +1,4 @@
-name: Uncensor
+name: UncensorAZ
 main: NhanAZ\Uncensor\Main
 version: 0.0.1
 api: [4.0.0, 5.0.0]

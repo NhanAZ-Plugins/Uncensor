@@ -107,13 +107,4 @@ class Main extends PluginBase implements Listener
 			}
 		}
 	}
-
-	public function onPlayerJoin(PlayerJoinEvent $event): void
-	{
-		$player = $event->getPlayer();
-		if (empty($this->words)) {
-			return;
-		}
-		$player->sendMessage("§cUncensor: §eThe following words are censored:§f " . implode("§8,§f ", $this->words));
-	}
 }

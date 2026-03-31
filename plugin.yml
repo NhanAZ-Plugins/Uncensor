@@ -3,6 +3,6 @@ main: NhanAZ\Uncensor\Main
 version: 0.0.1
 api: [4.0.0, 5.0.0]
 load: POSTWORLD
-author: NhanAZ
+authors: [NhanAZ, dktapps]
 description: Circumvents Microsoft's terrible Minecraft built-in chat filter
-website: https://github.com/NhanAZ-Plugins/Uncensor
+website: https://github.com/NhanAZ

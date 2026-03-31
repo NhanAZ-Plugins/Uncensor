@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Uncensor Resource Pack",
+    "name": "Uncensor",
+    "uuid": "0c552ff3-0919-40af-a116-51b406bcb2b3",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Uncensor Resource Pack",
+      "type": "resources",
+      "uuid": "19a242f6-1687-4728-b379-401b2314c702",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "NhanAZ"
+    ],
+    "url": "https://github.com/NhanAZ"
+  }
+}

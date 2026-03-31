@@ -1,8 +1,8 @@
 name: Uncensor
-main: dktapps\Uncensor\Main
-version: 0.2.1
-api: [3.0.0, 4.0.0]
+main: NhanAZ\Uncensor\Main
+version: 0.0.1
+api: [4.0.0, 5.0.0]
 load: POSTWORLD
-author: dktapps
+author: NhanAZ
 description: Circumvents Microsoft's terrible Minecraft built-in chat filter
-website: https://github.com/dktapps-pm-pl/Uncensor
+website: https://github.com/NhanAZ-Plugins/Uncensor

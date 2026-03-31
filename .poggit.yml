@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/dktapps-pm-pl/AntiAntiSwearFilter
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/NhanAZ-Plugins/Uncensor
 projects:
   Uncensor:
     path: ""

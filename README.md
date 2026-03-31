@@ -2,6 +2,9 @@
 
 A plugin for PocketMine-MP that automatically bypasses Minecraft Bedrock's built-in client-side profanity filter.
 
+<img width="1920" height="1080" alt="Screenshot" src="https://github.com/user-attachments/assets/04395bca-beb4-4472-98f7-551c100f908c" />
+
+
 ## Credits
 
 This plugin is a fork of [**dktapps-pm-pl/Uncensor**](https://github.com/dktapps-pm-pl/Uncensor/) by [**@dktapps**](https://github.com/dktapps) - the original author and creator of the concept. All credit for the original idea and implementation goes to him.

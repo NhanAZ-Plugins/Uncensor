@@ -1,6 +1,15 @@
-# UncensorAZ
+# Uncensor
 
-UncensorAZ inserts Minecraft formatting resets into listed words in outgoing Bedrock text packets. This can alter how the client applies its built-in text filter while preserving the visible text. The result depends on the Bedrock client and has not been verified with a connected client in this maintenance campaign.
+Apply formatting resets to listed words in outgoing Axolotl-PM text packets
+
+[![CI](https://github.com/NhanAZ-Plugins/Uncensor/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/Uncensor/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/Uncensor)](https://github.com/NhanAZ-Plugins/Uncensor/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/Uncensor)](https://github.com/NhanAZ-Plugins/Uncensor/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Requirements and compatibility
 
